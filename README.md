@@ -34,5 +34,5 @@ The concept of RFM (Recency, Frequency, Monetary) analysis was explained, highli
 * Multiple worksheets were created to depict different aspects of the data, including sales distribution, deal size distribution, sales by year, revenue by country, and sales by product line.
 * A comprehensive dashboard was developed by combining these worksheets and customizing their appearance.
   ![1](https://github.com/user-attachments/assets/e01ed644-0b2a-4c8f-8a16-89338ee83f6d)
-  
+  ![Screenshot 2025-01-16 123255](https://github.com/user-attachments/assets/12d7e8b7-ef54-4254-a1e0-996a7b84ecc0)
 
