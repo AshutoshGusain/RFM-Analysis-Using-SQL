@@ -22,3 +22,8 @@ The CSV file was downloaded from the GitHub repository and imported into SQL Ser
 4. Best Month for Sales per Year The best sales month for each year was determined by comparing the revenue generated in different months. This analysis provided insights into the most successful month for sales.
 
 5. What Product Line Sells Most in Best Month By considering the best sales month, the product line with the highest sales was identified. Furthermore, an analysis of the best-selling product line across different years was conducted.
+# RFM Explanation
+The concept of RFM (Recency, Frequency, Monetary) analysis was explained, highlighting its utilization of past purchase behavior to segment customers into categories such as high value, low value, or lost customers.
+# Who is the Best Customer
+RFM values were calculated for each customer based on their recency, frequency, and monetary value to identify the best customer.
+Customers were then grouped into four buckets based on their RFM values, and categorized as lost, loyal, or new customers.
