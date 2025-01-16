@@ -25,5 +25,8 @@ The CSV file was downloaded from the GitHub repository and imported into SQL Ser
 # RFM Explanation
 The concept of RFM (Recency, Frequency, Monetary) analysis was explained, highlighting its utilization of past purchase behavior to segment customers into categories such as high value, low value, or lost customers.
 # Who is the Best Customer
-RFM values were calculated for each customer based on their recency, frequency, and monetary value to identify the best customer.
-Customers were then grouped into four buckets based on their RFM values, and categorized as lost, loyal, or new customers.
+* RFM values were calculated for each customer based on their recency, frequency, and monetary value to identify the best customer.
+* Customers were then grouped into four buckets based on their RFM values, and categorized as lost, loyal, or new customers.
+# What Product Codes Sell Together
+* Subqueries and XML path analysis were employed to determine which products were frequently sold together.
+* The product codes of orders with multiple items were analyzed to identify patterns of products sold together.
